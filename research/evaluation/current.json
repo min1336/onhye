@@ -1,0 +1,607 @@
+{
+  "generatedAt": "2026-10-29T02:44:11.721Z",
+  "kind": "self-authored-development-set",
+  "candidateCount": 42397,
+  "snapshotHash": "c84f586872258627d3d41021d621da7ef8ec0007c3db5d01eccd1e8c24211947",
+  "caseCount": 30,
+  "targetHitAt5": 1,
+  "rows": [
+    {
+      "id": "job-서울",
+      "expectedIds": [
+        "gov24-149200005007",
+        "gov24-149200000026"
+      ],
+      "top": [
+        {
+          "id": "gov24-149200005007",
+          "title": "국민취업지원제도",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-SD0000015536",
+          "title": "구직급여",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-149200000026",
+          "title": "국민내일배움카드",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "job-경기",
+      "expectedIds": [
+        "gov24-149200005007",
+        "gov24-149200000026"
+      ],
+      "top": [
+        {
+          "id": "gov24-149200005007",
+          "title": "국민취업지원제도",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-SD0000015536",
+          "title": "구직급여",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-149200000026",
+          "title": "국민내일배움카드",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000669",
+          "title": "경기청년 일자리 매치업 플러스",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "job-부산",
+      "expectedIds": [
+        "gov24-149200005007",
+        "gov24-149200000026"
+      ],
+      "top": [
+        {
+          "id": "gov24-149200005007",
+          "title": "국민취업지원제도",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-SD0000015536",
+          "title": "구직급여",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-149200000026",
+          "title": "국민내일배움카드",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "rent-서울",
+      "expectedIds": [
+        "gov24-161300000099",
+        "gov24-336000000096"
+      ],
+      "top": [
+        {
+          "id": "gov24-336000000096",
+          "title": "주거급여 (맞춤형 급여)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-161300000099",
+          "title": "청년월세 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "rent-경기",
+      "expectedIds": [
+        "gov24-161300000099",
+        "gov24-336000000096"
+      ],
+      "top": [
+        {
+          "id": "gov24-336000000096",
+          "title": "주거급여 (맞춤형 급여)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-161300000099",
+          "title": "청년월세 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "rent-부산",
+      "expectedIds": [
+        "gov24-161300000099",
+        "gov24-336000000096"
+      ],
+      "top": [
+        {
+          "id": "gov24-336000000096",
+          "title": "주거급여 (맞춤형 급여)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-161300000099",
+          "title": "청년월세 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "deposit-서울",
+      "expectedIds": [
+        "gov24-161300000076"
+      ],
+      "top": [
+        {
+          "id": "gov24-161300000076",
+          "title": "버팀목전세자금대출",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "deposit-경기",
+      "expectedIds": [
+        "gov24-161300000076"
+      ],
+      "top": [
+        {
+          "id": "gov24-161300000076",
+          "title": "버팀목전세자금대출",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "deposit-부산",
+      "expectedIds": [
+        "gov24-161300000076"
+      ],
+      "top": [
+        {
+          "id": "gov24-161300000076",
+          "title": "버팀목전세자금대출",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "living-서울",
+      "expectedIds": [
+        "gov24-135200005003",
+        "gov24-WII000001410"
+      ],
+      "top": [
+        {
+          "id": "gov24-135200005003",
+          "title": "긴급복지 생계지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-WII000001410",
+          "title": "생계급여",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-B55353000001",
+          "title": "에너지바우처",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "living-경기",
+      "expectedIds": [
+        "gov24-135200005003",
+        "gov24-WII000001410"
+      ],
+      "top": [
+        {
+          "id": "gov24-135200005003",
+          "title": "긴급복지 생계지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-WII000001410",
+          "title": "생계급여",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-B55353000001",
+          "title": "에너지바우처",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "living-부산",
+      "expectedIds": [
+        "gov24-135200005003",
+        "gov24-WII000001410"
+      ],
+      "top": [
+        {
+          "id": "gov24-135200005003",
+          "title": "긴급복지 생계지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-WII000001410",
+          "title": "생계급여",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-B55353000001",
+          "title": "에너지바우처",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "senior-서울",
+      "expectedIds": [
+        "gov24-SSE000000170",
+        "gov24-SSE000000100"
+      ],
+      "top": [
+        {
+          "id": "gov24-SSE000000100",
+          "title": "노인일자리 및 사회활동 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-SSE000000170",
+          "title": "기초연금",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "senior-경기",
+      "expectedIds": [
+        "gov24-SSE000000170",
+        "gov24-SSE000000100"
+      ],
+      "top": [
+        {
+          "id": "gov24-SSE000000100",
+          "title": "노인일자리 및 사회활동 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-SSE000000170",
+          "title": "기초연금",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "senior-부산",
+      "expectedIds": [
+        "gov24-SSE000000170",
+        "gov24-SSE000000100"
+      ],
+      "top": [
+        {
+          "id": "gov24-SSE000000100",
+          "title": "노인일자리 및 사회활동 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-SSE000000170",
+          "title": "기초연금",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "student-서울",
+      "expectedIds": [
+        "gov24-SD0000004508",
+        "gov24-134200005002"
+      ],
+      "top": [
+        {
+          "id": "gov24-SD0000004508",
+          "title": "국가장학금 Ⅰ유형 (학생직접지원형)",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "student-경기",
+      "expectedIds": [
+        "gov24-SD0000004508",
+        "gov24-134200005002"
+      ],
+      "top": [
+        {
+          "id": "gov24-SD0000004508",
+          "title": "국가장학금 Ⅰ유형 (학생직접지원형)",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "student-부산",
+      "expectedIds": [
+        "gov24-SD0000004508",
+        "gov24-134200005002"
+      ],
+      "top": [
+        {
+          "id": "gov24-SD0000004508",
+          "title": "국가장학금 Ⅰ유형 (학생직접지원형)",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "parent-서울",
+      "expectedIds": [
+        "gov24-135200000120",
+        "gov24-423000000362"
+      ],
+      "top": [
+        {
+          "id": "gov24-423000000362",
+          "title": "아이돌봄 서비스",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-135200000120",
+          "title": "아동수당",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "parent-경기",
+      "expectedIds": [
+        "gov24-135200000120",
+        "gov24-423000000362"
+      ],
+      "top": [
+        {
+          "id": "gov24-423000000362",
+          "title": "아이돌봄 서비스",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-135200000120",
+          "title": "아동수당",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "parent-부산",
+      "expectedIds": [
+        "gov24-135200000120",
+        "gov24-423000000362"
+      ],
+      "top": [
+        {
+          "id": "gov24-423000000362",
+          "title": "아이돌봄 서비스",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-135200000120",
+          "title": "아동수당",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "disability-서울",
+      "expectedIds": [
+        "gov24-VOU000000020",
+        "gov24-SD0000016119"
+      ],
+      "top": [
+        {
+          "id": "gov24-SD0000016119",
+          "title": "장애인연금",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-VOU000000020",
+          "title": "장애인 활동지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-423000000362",
+          "title": "아이돌봄 서비스",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "disability-경기",
+      "expectedIds": [
+        "gov24-VOU000000020",
+        "gov24-SD0000016119"
+      ],
+      "top": [
+        {
+          "id": "gov24-SD0000016119",
+          "title": "장애인연금",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-VOU000000020",
+          "title": "장애인 활동지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-423000000362",
+          "title": "아이돌봄 서비스",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "disability-부산",
+      "expectedIds": [
+        "gov24-VOU000000020",
+        "gov24-SD0000016119"
+      ],
+      "top": [
+        {
+          "id": "gov24-SD0000016119",
+          "title": "장애인연금",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-VOU000000020",
+          "title": "장애인 활동지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-423000000362",
+          "title": "아이돌봄 서비스",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "culture-서울",
+      "expectedIds": [
+        "gov24-137100000236"
+      ],
+      "top": [
+        {
+          "id": "gov24-B55353000001",
+          "title": "에너지바우처",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-137100000236",
+          "title": "통합문화이용권(문화누리카드)",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "culture-경기",
+      "expectedIds": [
+        "gov24-137100000236"
+      ],
+      "top": [
+        {
+          "id": "gov24-B55353000001",
+          "title": "에너지바우처",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-137100000236",
+          "title": "통합문화이용권(문화누리카드)",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "culture-부산",
+      "expectedIds": [
+        "gov24-137100000236"
+      ],
+      "top": [
+        {
+          "id": "gov24-B55353000001",
+          "title": "에너지바우처",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-137100000236",
+          "title": "통합문화이용권(문화누리카드)",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "startup-서울",
+      "expectedIds": [
+        "gov24-999000000074"
+      ],
+      "top": [
+        {
+          "id": "gov24-999000000074",
+          "title": "예비창업패키지",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "startup-경기",
+      "expectedIds": [
+        "gov24-999000000074"
+      ],
+      "top": [
+        {
+          "id": "gov24-999000000074",
+          "title": "예비창업패키지",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "startup-부산",
+      "expectedIds": [
+        "gov24-999000000074"
+      ],
+      "top": [
+        {
+          "id": "gov24-999000000074",
+          "title": "예비창업패키지",
+          "group": "unknown"
+        }
+      ],
+      "hit": true
+    }
+  ],
+  "limitation": "자체 작성한 목표 후보 집합의 노출률이다. 수급자격 정확도·독립 평가·실사용자 성과·AI 모델 정확도가 아니다."
+}

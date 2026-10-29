@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-28T03:18:55.355Z",
+  "gov24": 10946,
+  "conditions": 10946,
+  "kstartup": 30442,
+  "kstartupAcceptingAtCollection": 210,
+  "tests": 27,
+  "browserChecks": [
+    "Gemini actual classification",
+    "25 age / male / Seoul / job seeker extraction",
+    "financial assets 5000000 and income 0 extraction",
+    "all topics by default",
+    "personalized result page 2"
+  ],
+  "limits": [
+    "Other channels are official links, not full imports",
+    "Monetary eligibility and district eligibility need official rule verification",
+    "Announcement attachments not parsed",
+    "No scheduled auto refresh"
+  ]
+}

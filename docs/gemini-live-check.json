@@ -1,0 +1,83 @@
+{
+  "checkedAt": "2026-10-28T02:46:14.496Z",
+  "project": "gen-lang-client-0179618980",
+  "note": "개발용 합성 입력의 1회씩 점검이며 일반 정확도 벤치마크가 아닙니다.",
+  "results": [
+    {
+      "case": "복수 관심",
+      "expected": [
+        "employment",
+        "housing"
+      ],
+      "actual": [
+        "employment",
+        "housing"
+      ],
+      "uncertain": [],
+      "pass": true,
+      "ms": 1617,
+      "model": "gemini-3.5-flash-lite"
+    },
+    {
+      "case": "부정문",
+      "expected": [
+        "housing"
+      ],
+      "actual": [
+        "housing"
+      ],
+      "uncertain": [],
+      "pass": true,
+      "ms": 1316,
+      "model": "gemini-3.5-flash-lite"
+    },
+    {
+      "case": "양육",
+      "expected": [
+        "family"
+      ],
+      "actual": [
+        "family"
+      ],
+      "uncertain": [],
+      "pass": true,
+      "ms": 1416,
+      "model": "gemini-3.5-flash-lite"
+    },
+    {
+      "case": "노후",
+      "expected": [
+        "senior"
+      ],
+      "actual": [
+        "senior"
+      ],
+      "uncertain": [],
+      "pass": true,
+      "ms": 1250,
+      "model": "gemini-3.5-flash-lite"
+    },
+    {
+      "case": "무관한 입력",
+      "expected": [],
+      "actual": [],
+      "uncertain": [],
+      "pass": true,
+      "ms": 1237,
+      "model": "gemini-3.5-flash-lite"
+    },
+    {
+      "case": "명령 삽입",
+      "expected": [
+        "housing"
+      ],
+      "actual": [
+        "housing"
+      ],
+      "uncertain": [],
+      "pass": true,
+      "ms": 1289,
+      "model": "gemini-3.5-flash-lite"
+    }
+  ]
+}

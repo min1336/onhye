@@ -1,0 +1,499 @@
+[
+  {
+    "id": "gov24-149200005007",
+    "title": "국민취업지원제도",
+    "topics": [
+      "employment"
+    ],
+    "fields": [
+      "employment",
+      "householdSize",
+      "incomeBracket"
+    ],
+    "questions": [
+      "I·II유형별 소득·재산·취업경험 조건을 충족하나요?",
+      "현재 신청 가능한 유형과 접수 절차를 고용센터에서 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005007",
+    "sourceHash": "e72662ac2b716aef7c8dc87b4ff57bc8accbebe9cc66d1841d21134031db6716",
+    "ageRange": [
+      15,
+      69
+    ]
+  },
+  {
+    "id": "gov24-149200000026",
+    "title": "국민내일배움카드",
+    "topics": [
+      "employment",
+      "education"
+    ],
+    "fields": [
+      "employment"
+    ],
+    "questions": [
+      "공무원·재학생·소득 등 지원 제외 조건에 해당하나요?",
+      "훈련상담과 수강할 과정의 모집 상태를 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000026",
+    "sourceHash": "703c309c376699cd5cd173ff5d556b221cbc8dda2f868c6b9f6f4180249cdd2d",
+    "ageBasis": "manual"
+  },
+  {
+    "id": "gov24-SD0000015536",
+    "title": "구직급여",
+    "topics": [
+      "employment"
+    ],
+    "fields": [
+      "employment"
+    ],
+    "questions": [
+      "고용보험 가입기간과 이직 사유가 수급 요건에 맞나요?",
+      "재취업 활동 및 수급자격 인정 절차를 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000015536",
+    "sourceHash": "a9fe274cf964d21a9b393656a3c8c1271e93677e4d5b78b2cc14e90644d43ebf",
+    "ageBasis": "manual"
+  },
+  {
+    "id": "gov24-641000000669",
+    "title": "경기청년 일자리 매치업 플러스",
+    "topics": [
+      "employment"
+    ],
+    "fields": [
+      "employment",
+      "region",
+      "district"
+    ],
+    "questions": [
+      "경기도 청년 연령·거주 요건을 충족하나요?",
+      "해당 회차 참여기업·모집기간을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000669",
+    "sourceHash": "db42b3d9ce34116eda9c6c8e3b867590e3aee1d8961888d63d0fad3ed781b165"
+  },
+  {
+    "id": "gov24-161300000099",
+    "title": "청년월세 지원",
+    "topics": [
+      "housing"
+    ],
+    "fields": [
+      "householdSize",
+      "incomeBracket"
+    ],
+    "questions": [
+      "부모와 별도로 거주하는 무주택 청년인가요?",
+      "원가구·청년가구 소득·재산, 임대차계약과 신청기간을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000099",
+    "sourceHash": "4f52cf14b5db276941051c29b47cf78b576c1729b9b19df555a8c3dd1480ab09",
+    "housingGoals": [
+      "rent"
+    ],
+    "ageBasis": "manual"
+  },
+  {
+    "id": "gov24-336000000096",
+    "title": "주거급여 (맞춤형 급여)",
+    "topics": [
+      "housing"
+    ],
+    "fields": [
+      "householdSize",
+      "incomeBracket",
+      "recipient"
+    ],
+    "questions": [
+      "가구 소득인정액이 주거급여 선정기준에 해당하나요?",
+      "임차·자가 구분과 실제 거주·임대차 조건을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/336000000096",
+    "sourceHash": "b6224d21b5ab4fd45982762c7c4fa965787403cb392b8dd66642dde0fa3515dd",
+    "housingGoals": [
+      "rent"
+    ]
+  },
+  {
+    "id": "gov24-161300000076",
+    "title": "버팀목전세자금대출",
+    "topics": [
+      "housing"
+    ],
+    "fields": [
+      "householdSize",
+      "incomeBracket"
+    ],
+    "questions": [
+      "무주택 세대주·소득·자산·임대차계약 조건에 맞나요?",
+      "은행의 대출 심사와 신청 가능한 상품·시점을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000076",
+    "sourceHash": "917577666649b75c4fb7fe75748491cf44a30aff9d0c4d1fbf7bc3f31a1ba4ae",
+    "housingGoals": [
+      "deposit"
+    ]
+  },
+  {
+    "id": "gov24-B55140800003",
+    "title": "내집마련 디딤돌 대출",
+    "topics": [
+      "housing"
+    ],
+    "fields": [
+      "householdSize",
+      "incomeBracket"
+    ],
+    "questions": [
+      "주택을 구입하려는 무주택 세대주인가요?",
+      "주택 가격·면적·가구 소득·자산과 은행 심사 조건을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55140800003",
+    "sourceHash": "b30a59928be0f6d8d16bd8441fa8b4f466d447a8be7f4270bec331e098df306f",
+    "housingGoals": [
+      "buy"
+    ]
+  },
+  {
+    "id": "gov24-135200005003",
+    "title": "긴급복지 생계지원",
+    "topics": [
+      "livelihood"
+    ],
+    "fields": [
+      "householdSize",
+      "incomeBracket",
+      "crisis"
+    ],
+    "questions": [
+      "실직·질병 등 법정 위기사유에 해당하나요?",
+      "가구 소득·재산·금융재산 산정과 긴급지원 가능 여부를 주민센터에서 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005003",
+    "sourceHash": "cfd87409fd51669701f440c0fb22843a073b91e04a43abcfbd9f90161242a601"
+  },
+  {
+    "id": "gov24-WII000001410",
+    "title": "생계급여",
+    "topics": [
+      "livelihood"
+    ],
+    "fields": [
+      "householdSize",
+      "incomeBracket",
+      "recipient"
+    ],
+    "questions": [
+      "가구 소득인정액과 부양의무자 예외 등 선정조건에 해당하나요?",
+      "수급 결정 여부와 다른 급여와의 관계를 주민센터에서 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001410",
+    "sourceHash": "2e509a1b0a3dd6d727f94c2742d63d616b767ec71c2588cc3663dcafc8baed59"
+  },
+  {
+    "id": "gov24-SSE000000170",
+    "title": "기초연금",
+    "topics": [
+      "senior"
+    ],
+    "fields": [
+      "householdSize",
+      "incomeBracket"
+    ],
+    "questions": [
+      "만 65세 이상이며 본인·배우자의 소득인정액 조건에 해당하나요?",
+      "직역연금 수급 등 제외·예외 조건과 신청시점을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SSE000000170",
+    "sourceHash": "4ebed5a5e505fa9fa2b6bf9cc5c2192b261e9d272fd1fd7e4ad8f04ddc18a041"
+  },
+  {
+    "id": "gov24-SSE000000100",
+    "title": "노인일자리 및 사회활동 지원",
+    "topics": [
+      "senior",
+      "employment"
+    ],
+    "fields": [
+      "employment",
+      "recipient"
+    ],
+    "questions": [
+      "공익·역량활용·민간형 중 연령과 수급 요건에 맞는 유형은 무엇인가요?",
+      "수행기관별 모집기간과 중복참여 제한을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SSE000000100",
+    "sourceHash": "9a8fdcde96a354a9485a5cf9ac4d20ad0980f3a580cc6087bb26d9abaf88abe4"
+  },
+  {
+    "id": "gov24-135200000120",
+    "title": "아동수당",
+    "topics": [
+      "family"
+    ],
+    "fields": [
+      "childAge"
+    ],
+    "questions": [
+      "지원받을 아동의 만 나이가 8세 미만인가요?",
+      "아동의 국적·주민등록 등 원문 조건을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000120",
+    "sourceHash": "00200f66f85a5399b8da3c467fdbd77d6210d19740080bef676038f843cab55a",
+    "ageBasis": "child",
+    "ageRange": [
+      0,
+      7
+    ]
+  },
+  {
+    "id": "gov24-135200005015",
+    "title": "첫만남이용권 지원",
+    "topics": [
+      "family"
+    ],
+    "fields": [
+      "childAge"
+    ],
+    "questions": [
+      "출생아의 출생신고와 신청·사용기한을 확인했나요?",
+      "출생일에 따른 적용 기준과 기존 이용 여부를 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005015",
+    "sourceHash": "9a1027281c4e3e6229134e85111d5e1f09ef1067b6b0b6d65642edfbd46bf6d2",
+    "ageBasis": "manual",
+    "maxChildAge": 1
+  },
+  {
+    "id": "gov24-SD0000007672",
+    "title": "건강보험 임신·출산 진료비 지원",
+    "topics": [
+      "family",
+      "health"
+    ],
+    "fields": [],
+    "questions": [
+      "임신·출산 확인과 건강보험 가입·피부양 자격을 충족하나요?",
+      "의료급여 등 제외 조건과 신청 대상자를 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
+    "sourceHash": "440d7bf95eb5835399ed637b319c70400073f900bd210764b8291893f8e52c0e",
+    "ageBasis": "manual",
+    "specialSignal": "JA0302"
+  },
+  {
+    "id": "gov24-423000000362",
+    "title": "아이돌봄 서비스",
+    "topics": [
+      "family",
+      "care"
+    ],
+    "fields": [
+      "childAge",
+      "employment",
+      "householdSize",
+      "incomeBracket"
+    ],
+    "questions": [
+      "아이의 월령과 양육 공백 사유가 해당 서비스 요건에 맞나요?",
+      "정부지원 중복금지·가구 소득·이용 시간 조건을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/423000000362",
+    "sourceHash": "2ef0dc1d5a15372b25242b1e6109b2eb53d8f7109dbea695171429b39ac4099c",
+    "ageBasis": "child",
+    "ageRange": [
+      0,
+      12
+    ]
+  },
+  {
+    "id": "gov24-SD0000004508",
+    "title": "국가장학금 Ⅰ유형 (학생직접지원형)",
+    "topics": [
+      "education"
+    ],
+    "fields": [
+      "employment",
+      "incomeBracket"
+    ],
+    "questions": [
+      "대한민국 국적의 국내 대학생이며 학자금 지원구간에 해당하나요?",
+      "학점·성적·지원횟수·대학 및 학기별 신청기간을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000004508",
+    "sourceHash": "5aadcac2715b53cc6e9bc831d8829181d43239d75e8620d49cb0238da848a3a5",
+    "employmentSignal": "student",
+    "groupKey": "national-scholarship",
+    "ageBasis": "manual"
+  },
+  {
+    "id": "gov24-134200005002",
+    "title": "국가장학금 Ⅱ유형 (대학자체노력연계형)",
+    "topics": [
+      "education"
+    ],
+    "fields": [
+      "employment",
+      "incomeBracket"
+    ],
+    "questions": [
+      "소속 대학이 해당 학기 국가장학금 II유형에 참여하나요?",
+      "학자금 지원구간과 대학 자체 선발 기준을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/134200005002",
+    "sourceHash": "080a04e835c2f157bd462cb87087706c76cd03930802ec98bee252963977249f",
+    "employmentSignal": "student",
+    "groupKey": "national-scholarship",
+    "ageBasis": "manual"
+  },
+  {
+    "id": "gov24-VOU000000020",
+    "title": "장애인 활동지원",
+    "topics": [
+      "care"
+    ],
+    "fields": [],
+    "questions": [
+      "등록 장애인이며 활동지원 서비스 지원 종합조사를 받았나요?",
+      "65세 전후 예외·중복급여·본인부담 등 세부 조건을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/VOU000000020",
+    "sourceHash": "ba9424aaafd5c8c406265793dd84a2ee496a9b7f2a7b361e85b4cfdf60576959",
+    "specialSignal": "JA0328",
+    "ageBasis": "manual"
+  },
+  {
+    "id": "gov24-SD0000016119",
+    "title": "장애인연금",
+    "topics": [
+      "care",
+      "livelihood"
+    ],
+    "fields": [
+      "householdSize",
+      "incomeBracket"
+    ],
+    "questions": [
+      "장애인연금법상의 중증장애 요건을 충족하나요?",
+      "본인·배우자의 소득인정액 및 직역연금 예외를 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000016119",
+    "sourceHash": "680bc5d6db8aafe1f6263e1d8668427d3c1ee358aa27808cec87daf2165a67e3",
+    "specialSignal": "JA0328"
+  },
+  {
+    "id": "gov24-137100000236",
+    "title": "통합문화이용권(문화누리카드)",
+    "topics": [
+      "culture"
+    ],
+    "fields": [
+      "recipient"
+    ],
+    "questions": [
+      "기초생활수급자·차상위계층 및 연령 조건에 해당하나요?",
+      "발급기간·사용기간과 기존 발급 여부를 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/137100000236",
+    "sourceHash": "b32947f8b939ce39ca8516b88662fb73971f81f212293d2ba7430bef0b116be8"
+  },
+  {
+    "id": "gov24-B55353000001",
+    "title": "에너지바우처",
+    "topics": [
+      "culture",
+      "livelihood"
+    ],
+    "fields": [
+      "recipient",
+      "householdSize"
+    ],
+    "questions": [
+      "기초생활급여 수급과 세대원 특성 조건을 모두 충족하나요?",
+      "다른 에너지 지원과의 중복·제외 조건, 신청·사용기간을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55353000001",
+    "sourceHash": "623240d589d32a2a9d86a7a1dccc7a9889d862d4347123bea0f72813dcd4e762"
+  },
+  {
+    "id": "gov24-999000000074",
+    "title": "예비창업패키지",
+    "topics": [
+      "business"
+    ],
+    "fields": [],
+    "questions": [
+      "현재 사업자 등록 상태가 해당 회차 예비창업자 요건에 맞나요?",
+      "모집분야·접수기간·중복수혜·제외업종을 공식 공고에서 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/999000000074",
+    "sourceHash": "04f19f83ca2ac54d448cf45796052ba098907d47c76f7c84b8efd045b2496f88"
+  },
+  {
+    "id": "gov24-135200005013",
+    "title": "자산형성지원사업(청년내일저축계좌)",
+    "topics": [
+      "livelihood"
+    ],
+    "fields": [
+      "employment",
+      "incomeBracket"
+    ],
+    "questions": [
+      "연령·근로 또는 사업소득·가구소득 조건을 모두 충족하나요?",
+      "모집기간·유지조건·중복지원 제한을 확인하세요."
+    ],
+    "reviewedAt": "2026-10-29",
+    "sourceCheckedAt": "2026-10-28",
+    "sourceUrl": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005013",
+    "sourceHash": "a8e4b462ee0cbb4253459d39fa2ba9df8667d2ea1d0212f21e4199acd332eed6"
+  }
+]

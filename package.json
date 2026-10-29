@@ -1,0 +1,35 @@
+{
+  "name": "onhye-welfare-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env.local server/index.mjs",
+    "build": "node scripts/pack-deployment.mjs && vite build",
+    "start": "NODE_ENV=production node --env-file-if-exists=.env.local server/index.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "data:sync": "node --env-file-if-exists=.env.local scripts/sync-welfare.mjs",
+    "data:announcements": "node --env-file-if-exists=.env.local scripts/sync-announcements.mjs",
+    "data:channels": "node --env-file-if-exists=.env.local scripts/sync-channels.mjs",
+    "monitor:once": "node scripts/monitor.mjs",
+    "monitor:status": "node scripts/monitor.mjs --status",
+    "evaluate:recommendations": "node scripts/evaluate-recommendations.mjs",
+    "deploy": "node scripts/pack-deployment.mjs && npm test && vercel deploy --prod --project onhye --scope aldursjrnf123-4009s-projects"
+  },
+  "dependencies": {
+    "@vercel/functions": "3.6.1",
+    "@vercel/oidc": "3.5.0",
+    "better-sqlite3": "^13.0.3",
+    "botid": "^1.5.11",
+    "cheerio": "^1.1.2",
+    "google-auth-library": "^11.3.1",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.5"
+  }
+}

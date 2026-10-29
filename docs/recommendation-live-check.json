@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-10-29T02:57:57.638Z",
+  "deploymentId": "dpl_LF751VPGjaND9depRSQmdjHTea2w",
+  "url": "https://onhye.vercel.app",
+  "testsPassed": 94,
+  "curatedPrograms": 24,
+  "developmentCases": 30,
+  "liveGeminiEvidenceConfirmed": true,
+  "liveGeminiToShortlistConfirmed": true,
+  "samples": [
+    {
+      "topics": [
+        "employment"
+      ],
+      "priority": [
+        "국민취업지원제도",
+        "구직급여",
+        "국민내일배움카드",
+        "경기청년 일자리 매치업 플러스"
+      ],
+      "followUps": [],
+      "total": 20461
+    },
+    {
+      "topics": [
+        "housing"
+      ],
+      "priority": [
+        "주거급여 (맞춤형 급여)",
+        "청년월세 지원"
+      ],
+      "followUps": [],
+      "total": 1491
+    },
+    {
+      "topics": [
+        "family"
+      ],
+      "priority": [
+        "아이돌봄 서비스",
+        "아동수당"
+      ],
+      "followUps": [
+        {
+          "field": "employment",
+          "label": "현재 취업·재학 상태"
+        }
+      ],
+      "total": 791
+    }
+  ],
+  "limitations": [
+    "Self-authored development cases; not independent accuracy or user-effect evidence",
+    "No user study or final demo video; report remains a draft"
+  ]
+}

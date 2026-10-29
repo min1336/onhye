@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-10-28T02:55:54.122Z",
+  "note": "13개 분야 확대 후 합성 입력 점검. 일반 정확도 보장이 아닙니다.",
+  "results": [
+    {
+      "input": "장학금과 등록금 지원을 찾고 있어요.",
+      "expected": [
+        "education"
+      ],
+      "actual": [
+        "education"
+      ],
+      "pass": true,
+      "ms": 1784
+    },
+    {
+      "input": "병원 치료비 지원이 필요해요.",
+      "expected": [
+        "health"
+      ],
+      "actual": [
+        "health"
+      ],
+      "pass": true,
+      "ms": 1753
+    },
+    {
+      "input": "소상공인 창업 지원을 찾고 있어요.",
+      "expected": [
+        "business"
+      ],
+      "actual": [
+        "business"
+      ],
+      "pass": true,
+      "ms": 1805
+    },
+    {
+      "input": "퇴사했고 월세 부담 때문에 취업과 주거 지원을 찾고 있어요.",
+      "expected": [
+        "employment",
+        "housing"
+      ],
+      "actual": [
+        "employment",
+        "housing"
+      ],
+      "pass": true,
+      "ms": 1702
+    }
+  ]
+}

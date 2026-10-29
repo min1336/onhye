@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.env*
+!.env.example
+.DS_Store
+submission/
+
+.cache/
+
+.private/
+.vercel
+
+.vercel/
+.deploy-data/
+
+# 대회 원문·개인 제출 준비 자료는 코드 저장소에서 제외
+research/*
+!research/evaluation/
+!research/security/

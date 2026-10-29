@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-10-28T11:09:22.850Z",
+  "canonicalUrl": "https://onhye.vercel.app",
+  "deploymentId": "dpl_5MeLsfxBEbLy3ew9Qc1YUC4VSgfN",
+  "deploymentUrl": "https://onhye-mstrrfzb8-aldursjrnf123-4009s-projects.vercel.app",
+  "state": "READY",
+  "testsPassed": 61,
+  "catalogCount": 144124,
+  "liveClassifications": [
+    "employment",
+    "housing",
+    "health",
+    "employment"
+  ],
+  "directRequestWithoutBotProofStatus": 403,
+  "privateRoutesStatus": 404,
+  "sourceArchiveForbiddenFiles": 0,
+  "removedInitialTestDeployment": "dpl_FLYWi21jnUoDsVMi9FSKu5MP5hwg",
+  "limitations": [
+    "No large-scale load testing",
+    "Request quota is not a monetary spend cap"
+  ]
+}

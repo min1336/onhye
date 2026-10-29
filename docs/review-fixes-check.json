@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-28T03:35:39.376Z",
+  "tests": 33,
+  "build": "passed",
+  "responseBytes": {
+    "/api/catalog-meta": 1542,
+    "/api/catalog": 11167
+  },
+  "browserChecks": [
+    "saved benefit remains visible after page 2",
+    "server catalogue search",
+    "390px viewport no horizontal overflow",
+    "actual Gemini request completed on 390px screen"
+  ],
+  "ruleEvidence": "research/public-data/financial-rule-evidence.json",
+  "limitations": [
+    "Money comparison only for verified 2026 Seoul emergency support single-person household assessed figures",
+    "Other government channels remain explicit external links",
+    "Full eligibility criteria and attachments remain unverified unless stated"
+  ],
+  "completedAt": "2026-10-28T03:36:31.618Z"
+}

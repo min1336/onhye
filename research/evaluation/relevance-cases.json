@@ -1,0 +1,517 @@
+{
+  "kind": "self-authored-development-cases",
+  "purpose": "목표 후보 상위5 노출 점검. 수급자격 정답·독립 평가·사용자 연구가 아님.",
+  "createdAt": "2026-10-29",
+  "cases": [
+    {
+      "id": "job-서울",
+      "description": "구직자가 취업서비스·훈련을 찾는 상황",
+      "topics": [
+        "employment"
+      ],
+      "profile": {
+        "age": 25,
+        "employment": "seeking",
+        "region": "서울",
+        "district": "강남구"
+      },
+      "expectedIds": [
+        "gov24-149200005007",
+        "gov24-149200000026"
+      ]
+    },
+    {
+      "id": "job-경기",
+      "description": "구직자가 취업서비스·훈련을 찾는 상황",
+      "topics": [
+        "employment"
+      ],
+      "profile": {
+        "age": 25,
+        "employment": "seeking",
+        "region": "경기",
+        "district": "화성시"
+      },
+      "expectedIds": [
+        "gov24-149200005007",
+        "gov24-149200000026"
+      ]
+    },
+    {
+      "id": "job-부산",
+      "description": "구직자가 취업서비스·훈련을 찾는 상황",
+      "topics": [
+        "employment"
+      ],
+      "profile": {
+        "age": 25,
+        "employment": "seeking",
+        "region": "부산",
+        "district": "부산진구"
+      },
+      "expectedIds": [
+        "gov24-149200005007",
+        "gov24-149200000026"
+      ]
+    },
+    {
+      "id": "rent-서울",
+      "description": "청년 임차인의 월세 부담 탐색",
+      "topics": [
+        "housing"
+      ],
+      "profile": {
+        "age": 25,
+        "housingGoal": "rent",
+        "region": "서울",
+        "district": "강남구"
+      },
+      "expectedIds": [
+        "gov24-161300000099",
+        "gov24-336000000096"
+      ]
+    },
+    {
+      "id": "rent-경기",
+      "description": "청년 임차인의 월세 부담 탐색",
+      "topics": [
+        "housing"
+      ],
+      "profile": {
+        "age": 25,
+        "housingGoal": "rent",
+        "region": "경기",
+        "district": "화성시"
+      },
+      "expectedIds": [
+        "gov24-161300000099",
+        "gov24-336000000096"
+      ]
+    },
+    {
+      "id": "rent-부산",
+      "description": "청년 임차인의 월세 부담 탐색",
+      "topics": [
+        "housing"
+      ],
+      "profile": {
+        "age": 25,
+        "housingGoal": "rent",
+        "region": "부산",
+        "district": "부산진구"
+      },
+      "expectedIds": [
+        "gov24-161300000099",
+        "gov24-336000000096"
+      ]
+    },
+    {
+      "id": "deposit-서울",
+      "description": "전세보증금 대출 후보 탐색",
+      "topics": [
+        "housing"
+      ],
+      "profile": {
+        "age": 30,
+        "housingGoal": "deposit",
+        "region": "서울",
+        "district": "강남구"
+      },
+      "expectedIds": [
+        "gov24-161300000076"
+      ]
+    },
+    {
+      "id": "deposit-경기",
+      "description": "전세보증금 대출 후보 탐색",
+      "topics": [
+        "housing"
+      ],
+      "profile": {
+        "age": 30,
+        "housingGoal": "deposit",
+        "region": "경기",
+        "district": "화성시"
+      },
+      "expectedIds": [
+        "gov24-161300000076"
+      ]
+    },
+    {
+      "id": "deposit-부산",
+      "description": "전세보증금 대출 후보 탐색",
+      "topics": [
+        "housing"
+      ],
+      "profile": {
+        "age": 30,
+        "housingGoal": "deposit",
+        "region": "부산",
+        "district": "부산진구"
+      },
+      "expectedIds": [
+        "gov24-161300000076"
+      ]
+    },
+    {
+      "id": "living-서울",
+      "description": "위기상황 생계지원 탐색",
+      "topics": [
+        "livelihood"
+      ],
+      "profile": {
+        "age": 40,
+        "crisis": "yes",
+        "region": "서울",
+        "district": "강남구"
+      },
+      "expectedIds": [
+        "gov24-135200005003",
+        "gov24-WII000001410"
+      ]
+    },
+    {
+      "id": "living-경기",
+      "description": "위기상황 생계지원 탐색",
+      "topics": [
+        "livelihood"
+      ],
+      "profile": {
+        "age": 40,
+        "crisis": "yes",
+        "region": "경기",
+        "district": "화성시"
+      },
+      "expectedIds": [
+        "gov24-135200005003",
+        "gov24-WII000001410"
+      ]
+    },
+    {
+      "id": "living-부산",
+      "description": "위기상황 생계지원 탐색",
+      "topics": [
+        "livelihood"
+      ],
+      "profile": {
+        "age": 40,
+        "crisis": "yes",
+        "region": "부산",
+        "district": "부산진구"
+      },
+      "expectedIds": [
+        "gov24-135200005003",
+        "gov24-WII000001410"
+      ]
+    },
+    {
+      "id": "senior-서울",
+      "description": "고령자의 연금·사회활동 탐색",
+      "topics": [
+        "senior"
+      ],
+      "profile": {
+        "age": 70,
+        "region": "서울",
+        "district": "강남구"
+      },
+      "expectedIds": [
+        "gov24-SSE000000170",
+        "gov24-SSE000000100"
+      ]
+    },
+    {
+      "id": "senior-경기",
+      "description": "고령자의 연금·사회활동 탐색",
+      "topics": [
+        "senior"
+      ],
+      "profile": {
+        "age": 70,
+        "region": "경기",
+        "district": "화성시"
+      },
+      "expectedIds": [
+        "gov24-SSE000000170",
+        "gov24-SSE000000100"
+      ]
+    },
+    {
+      "id": "senior-부산",
+      "description": "고령자의 연금·사회활동 탐색",
+      "topics": [
+        "senior"
+      ],
+      "profile": {
+        "age": 70,
+        "region": "부산",
+        "district": "부산진구"
+      },
+      "expectedIds": [
+        "gov24-SSE000000170",
+        "gov24-SSE000000100"
+      ]
+    },
+    {
+      "id": "student-서울",
+      "description": "대학생의 장학금 후보 탐색",
+      "topics": [
+        "education"
+      ],
+      "profile": {
+        "age": 22,
+        "employment": "student",
+        "region": "서울",
+        "district": "강남구"
+      },
+      "expectedIds": [
+        "gov24-SD0000004508",
+        "gov24-134200005002"
+      ]
+    },
+    {
+      "id": "student-경기",
+      "description": "대학생의 장학금 후보 탐색",
+      "topics": [
+        "education"
+      ],
+      "profile": {
+        "age": 22,
+        "employment": "student",
+        "region": "경기",
+        "district": "화성시"
+      },
+      "expectedIds": [
+        "gov24-SD0000004508",
+        "gov24-134200005002"
+      ]
+    },
+    {
+      "id": "student-부산",
+      "description": "대학생의 장학금 후보 탐색",
+      "topics": [
+        "education"
+      ],
+      "profile": {
+        "age": 22,
+        "employment": "student",
+        "region": "부산",
+        "district": "부산진구"
+      },
+      "expectedIds": [
+        "gov24-SD0000004508",
+        "gov24-134200005002"
+      ]
+    },
+    {
+      "id": "parent-서울",
+      "description": "부모가 만2세 자녀의 수당·돌봄을 찾는 상황",
+      "topics": [
+        "family"
+      ],
+      "profile": {
+        "age": 35,
+        "childAge": 2,
+        "region": "서울",
+        "district": "강남구"
+      },
+      "expectedIds": [
+        "gov24-135200000120",
+        "gov24-423000000362"
+      ]
+    },
+    {
+      "id": "parent-경기",
+      "description": "부모가 만2세 자녀의 수당·돌봄을 찾는 상황",
+      "topics": [
+        "family"
+      ],
+      "profile": {
+        "age": 35,
+        "childAge": 2,
+        "region": "경기",
+        "district": "화성시"
+      },
+      "expectedIds": [
+        "gov24-135200000120",
+        "gov24-423000000362"
+      ]
+    },
+    {
+      "id": "parent-부산",
+      "description": "부모가 만2세 자녀의 수당·돌봄을 찾는 상황",
+      "topics": [
+        "family"
+      ],
+      "profile": {
+        "age": 35,
+        "childAge": 2,
+        "region": "부산",
+        "district": "부산진구"
+      },
+      "expectedIds": [
+        "gov24-135200000120",
+        "gov24-423000000362"
+      ]
+    },
+    {
+      "id": "disability-서울",
+      "description": "등록 장애인의 활동지원·연금 후보 탐색",
+      "topics": [
+        "care"
+      ],
+      "profile": {
+        "age": 35,
+        "special": [
+          "JA0328"
+        ],
+        "region": "서울",
+        "district": "강남구"
+      },
+      "expectedIds": [
+        "gov24-VOU000000020",
+        "gov24-SD0000016119"
+      ]
+    },
+    {
+      "id": "disability-경기",
+      "description": "등록 장애인의 활동지원·연금 후보 탐색",
+      "topics": [
+        "care"
+      ],
+      "profile": {
+        "age": 35,
+        "special": [
+          "JA0328"
+        ],
+        "region": "경기",
+        "district": "화성시"
+      },
+      "expectedIds": [
+        "gov24-VOU000000020",
+        "gov24-SD0000016119"
+      ]
+    },
+    {
+      "id": "disability-부산",
+      "description": "등록 장애인의 활동지원·연금 후보 탐색",
+      "topics": [
+        "care"
+      ],
+      "profile": {
+        "age": 35,
+        "special": [
+          "JA0328"
+        ],
+        "region": "부산",
+        "district": "부산진구"
+      },
+      "expectedIds": [
+        "gov24-VOU000000020",
+        "gov24-SD0000016119"
+      ]
+    },
+    {
+      "id": "culture-서울",
+      "description": "수급자의 문화이용권 탐색",
+      "topics": [
+        "culture"
+      ],
+      "profile": {
+        "age": 40,
+        "recipient": "basic",
+        "region": "서울",
+        "district": "강남구"
+      },
+      "expectedIds": [
+        "gov24-137100000236"
+      ]
+    },
+    {
+      "id": "culture-경기",
+      "description": "수급자의 문화이용권 탐색",
+      "topics": [
+        "culture"
+      ],
+      "profile": {
+        "age": 40,
+        "recipient": "basic",
+        "region": "경기",
+        "district": "화성시"
+      },
+      "expectedIds": [
+        "gov24-137100000236"
+      ]
+    },
+    {
+      "id": "culture-부산",
+      "description": "수급자의 문화이용권 탐색",
+      "topics": [
+        "culture"
+      ],
+      "profile": {
+        "age": 40,
+        "recipient": "basic",
+        "region": "부산",
+        "district": "부산진구"
+      },
+      "expectedIds": [
+        "gov24-137100000236"
+      ]
+    },
+    {
+      "id": "startup-서울",
+      "description": "예비창업자의 사업화 지원 탐색",
+      "topics": [
+        "business"
+      ],
+      "profile": {
+        "age": 30,
+        "special": [
+          "JA1101"
+        ],
+        "region": "서울",
+        "district": "강남구"
+      },
+      "expectedIds": [
+        "gov24-999000000074"
+      ]
+    },
+    {
+      "id": "startup-경기",
+      "description": "예비창업자의 사업화 지원 탐색",
+      "topics": [
+        "business"
+      ],
+      "profile": {
+        "age": 30,
+        "special": [
+          "JA1101"
+        ],
+        "region": "경기",
+        "district": "화성시"
+      },
+      "expectedIds": [
+        "gov24-999000000074"
+      ]
+    },
+    {
+      "id": "startup-부산",
+      "description": "예비창업자의 사업화 지원 탐색",
+      "topics": [
+        "business"
+      ],
+      "profile": {
+        "age": 30,
+        "special": [
+          "JA1101"
+        ],
+        "region": "부산",
+        "district": "부산진구"
+      },
+      "expectedIds": [
+        "gov24-999000000074"
+      ]
+    }
+  ]
+}

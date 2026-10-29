@@ -1,0 +1,1052 @@
+{
+  "generatedAt": "2026-10-28T23:56:33.537Z",
+  "kind": "self-authored-development-set",
+  "candidateCount": 42397,
+  "snapshotHash": "c84f586872258627d3d41021d621da7ef8ec0007c3db5d01eccd1e8c24211947",
+  "caseCount": 30,
+  "targetHitAt5": 0,
+  "rows": [
+    {
+      "id": "job-서울",
+      "expectedIds": [
+        "gov24-149200005007",
+        "gov24-149200000026"
+      ],
+      "top": [
+        {
+          "id": "gov24-611000019622",
+          "title": "미래 청년 일자리",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000144",
+          "title": "취업날개 서비스",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000019628",
+          "title": "서울 동행일자리 사업(구 공공근로 사업)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000126",
+          "title": "서울 청년수당 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-SD0000015536",
+          "title": "구직급여",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "job-경기",
+      "expectedIds": [
+        "gov24-149200005007",
+        "gov24-149200000026"
+      ],
+      "top": [
+        {
+          "id": "gov24-641000000743",
+          "title": "숙련건설기능인력 교육훈련 및 취업지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000742",
+          "title": "미래 성장산업 취업전환 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-553000000108",
+          "title": "화성시 자활근로사업",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000669",
+          "title": "경기청년 일자리 매치업 플러스",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000115",
+          "title": "지역공동체일자리사업(전환)",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "job-부산",
+      "expectedIds": [
+        "gov24-149200005007",
+        "gov24-149200000026"
+      ],
+      "top": [
+        {
+          "id": "gov24-626000000630",
+          "title": "취업연수생",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000104",
+          "title": "청년취업 정장 대여서비스 지원(드림옷장)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-SD0000015536",
+          "title": "구직급여",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-149200000092",
+          "title": "구직자 취업지원 서비스 제공",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-GFO000000030",
+          "title": "산림서비스도우미(산림복지일자리)",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "rent-서울",
+      "expectedIds": [
+        "gov24-161300000099",
+        "gov24-336000000096"
+      ],
+      "top": [
+        {
+          "id": "gov24-611000019598",
+          "title": "주택용 소방시설(주택화재경보기, 소화기) 보급 및 설치 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000162",
+          "title": "서울시 정신질환자 자립생활주택 운영",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000019637",
+          "title": "새빛주택 지원사업",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000127",
+          "title": "서울시 청년 월세 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000170",
+          "title": "청년 부동산 중개보수 및 이사비 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "rent-경기",
+      "expectedIds": [
+        "gov24-161300000099",
+        "gov24-336000000096"
+      ],
+      "top": [
+        {
+          "id": "gov24-641000000852",
+          "title": "경기도 취약계층 주택화재 안심보험 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000856",
+          "title": "햇살하우징 사업",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-560000000143",
+          "title": "포천시 청년·신혼부부 공공임대주택 주거비 지원(임대보증금)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-138300000017",
+          "title": "한부모가족 임대주택 특별공급",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-142000000014",
+          "title": "중소기업장기근속자주택우선공급",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "rent-부산",
+      "expectedIds": [
+        "gov24-161300000099",
+        "gov24-336000000096"
+      ],
+      "top": [
+        {
+          "id": "gov24-626000000617",
+          "title": "부산시 전세피해임차인 주거안정지원금 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000103",
+          "title": "영구임대주택 난방비 등 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000627",
+          "title": "(변경·중지·연장 등 )부산광역시 평생함께 청년모두가 주거비 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000113",
+          "title": "청년 임차보증금 대출 및 대출이자 지원(머물자리론)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000626",
+          "title": "(2026) 부산광역시 평생함께 청년모두가 주거비 지원(기존 공공임대주택 입주자 대상)",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "deposit-서울",
+      "expectedIds": [
+        "gov24-161300000076"
+      ],
+      "top": [
+        {
+          "id": "gov24-611000019598",
+          "title": "주택용 소방시설(주택화재경보기, 소화기) 보급 및 설치 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000162",
+          "title": "서울시 정신질환자 자립생활주택 운영",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000019637",
+          "title": "새빛주택 지원사업",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000127",
+          "title": "서울시 청년 월세 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000170",
+          "title": "청년 부동산 중개보수 및 이사비 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "deposit-경기",
+      "expectedIds": [
+        "gov24-161300000076"
+      ],
+      "top": [
+        {
+          "id": "gov24-641000000852",
+          "title": "경기도 취약계층 주택화재 안심보험 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000856",
+          "title": "햇살하우징 사업",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-560000000143",
+          "title": "포천시 청년·신혼부부 공공임대주택 주거비 지원(임대보증금)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-138300000017",
+          "title": "한부모가족 임대주택 특별공급",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-142000000014",
+          "title": "중소기업장기근속자주택우선공급",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "deposit-부산",
+      "expectedIds": [
+        "gov24-161300000076"
+      ],
+      "top": [
+        {
+          "id": "gov24-626000000617",
+          "title": "부산시 전세피해임차인 주거안정지원금 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000103",
+          "title": "영구임대주택 난방비 등 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000627",
+          "title": "(변경·중지·연장 등 )부산광역시 평생함께 청년모두가 주거비 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000113",
+          "title": "청년 임차보증금 대출 및 대출이자 지원(머물자리론)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000626",
+          "title": "(2026) 부산광역시 평생함께 청년모두가 주거비 지원(기존 공공임대주택 입주자 대상)",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "living-서울",
+      "expectedIds": [
+        "gov24-135200005003",
+        "gov24-WII000001410"
+      ],
+      "top": [
+        {
+          "id": "gov24-322000000125",
+          "title": "아빠 육아휴직장려금 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000128",
+          "title": "서울형 기초보장제도 생계급여 등 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000129",
+          "title": "서울형 입원 생활비 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000137",
+          "title": "저소득시민 부가급여 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-135200005004",
+          "title": "긴급복지 연료비 및 전기요금 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "living-경기",
+      "expectedIds": [
+        "gov24-135200005003",
+        "gov24-WII000001410"
+      ],
+      "top": [
+        {
+          "id": "gov24-641000000172",
+          "title": "농촌폐비닐 수거장려금 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000168",
+          "title": "친환경 생태보전 재배 장려금 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000130",
+          "title": "축산재해 긴급 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000173",
+          "title": "도비 장애수당",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000184",
+          "title": "영세 소상공인 노란우산 가입지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "living-부산",
+      "expectedIds": [
+        "gov24-135200005003",
+        "gov24-WII000001410"
+      ],
+      "top": [
+        {
+          "id": "gov24-626000000148",
+          "title": "부산형 긴급복지지원 사업",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-135200005004",
+          "title": "긴급복지 연료비 및 전기요금 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-999000000040",
+          "title": "긴급복지 장제비 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-135200005002",
+          "title": "긴급복지 해산비 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-149200000135",
+          "title": "한국폴리텍대학 훈련생 훈련장려금등 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "senior-서울",
+      "expectedIds": [
+        "gov24-SSE000000170",
+        "gov24-SSE000000100"
+      ],
+      "top": [
+        {
+          "id": "gov24-322000000115",
+          "title": "저소득 노인가구 국민건강보험료 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-O00022800002",
+          "title": "체육시설 이용요금 감면(독산어르신체육센터)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-322000000106",
+          "title": "독거어르신 ICT 돌봄서비스",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-WII000000310",
+          "title": "노후준비서비스제공",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000145",
+          "title": "저소득어르신급식지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "senior-경기",
+      "expectedIds": [
+        "gov24-SSE000000170",
+        "gov24-SSE000000100"
+      ],
+      "top": [
+        {
+          "id": "gov24-641000000679",
+          "title": "경기도 AI 노인말벗서비스",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000855",
+          "title": "어르신 안전 하우징",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-553000000592",
+          "title": "노인 보청기 및 보행기 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-WII000000310",
+          "title": "노후준비서비스제공",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000141",
+          "title": "경로식당무료급식및식사배달지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "senior-부산",
+      "expectedIds": [
+        "gov24-SSE000000170",
+        "gov24-SSE000000100"
+      ],
+      "top": [
+        {
+          "id": "gov24-626000000109",
+          "title": "노인·장애인 의치보철지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-329000000103",
+          "title": "저소득 노인 국민건강보험료 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-329000000105",
+          "title": "취약계층 어르신 건강검진 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-WII000000310",
+          "title": "노후준비서비스제공",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000128",
+          "title": "노인급식지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "student-서울",
+      "expectedIds": [
+        "gov24-SD0000004508",
+        "gov24-134200005002"
+      ],
+      "top": [
+        {
+          "id": "gov24-B55370100033",
+          "title": "서민금융진흥원 금융교육",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-B55291900006",
+          "title": "학교밖청소년 권리침해 모니터링 및 신고방 운영",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-B55403800003",
+          "title": "어린연어 생태체험 교육",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-B55403800004",
+          "title": "어미연어 현장체험 교육",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-701000000210",
+          "title": "학교밖청소년 교육참여활동비 지급",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "student-경기",
+      "expectedIds": [
+        "gov24-SD0000004508",
+        "gov24-134200005002"
+      ],
+      "top": [
+        {
+          "id": "gov24-B55370100033",
+          "title": "서민금융진흥원 금융교육",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-B55291900006",
+          "title": "학교밖청소년 권리침해 모니터링 및 신고방 운영",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-B55403800003",
+          "title": "어린연어 생태체험 교육",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-B55403800004",
+          "title": "어미연어 현장체험 교육",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-753000000227",
+          "title": "중·고등학교 신입생 교복 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "student-부산",
+      "expectedIds": [
+        "gov24-SD0000004508",
+        "gov24-134200005002"
+      ],
+      "top": [
+        {
+          "id": "gov24-B55370100033",
+          "title": "서민금융진흥원 금융교육",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-B55291900006",
+          "title": "학교밖청소년 권리침해 모니터링 및 신고방 운영",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-B55403800003",
+          "title": "어린연어 생태체험 교육",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-B55403800004",
+          "title": "어미연어 현장체험 교육",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-626000000143",
+          "title": "학교밖청소년 급식비 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "parent-서울",
+      "expectedIds": [
+        "gov24-135200000120",
+        "gov24-423000000362"
+      ],
+      "top": [
+        {
+          "id": "gov24-611000000124",
+          "title": "산모·신생아건강관리지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-322000000109",
+          "title": "출산양육지원금 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000155",
+          "title": "이주여성 건강관리 지원 (구)다문화가족 출산 전후 돌봄서비스)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000135",
+          "title": "남성장애인 출산비용 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000019615",
+          "title": "다자녀 가구 하수도사용료 감면",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "parent-경기",
+      "expectedIds": [
+        "gov24-135200000120",
+        "gov24-423000000362"
+      ],
+      "top": [
+        {
+          "id": "gov24-553000000582",
+          "title": "태아기형아 검사비 지원사업",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-553000000579",
+          "title": "산모신생아 건강관리 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-553000000114",
+          "title": "출산지원금 지급",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-753000000225",
+          "title": "저소득층 자녀 교육정보화 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-753000000228",
+          "title": "평생교육시설 저소득층 자녀 급식비 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "parent-부산",
+      "expectedIds": [
+        "gov24-135200000120",
+        "gov24-423000000362"
+      ],
+      "top": [
+        {
+          "id": "gov24-329000000101",
+          "title": "태아기형아(쿼드) 검사비 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-329000000108",
+          "title": "출산축하금",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000154",
+          "title": "둘째아 이후 출산지원금 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000622",
+          "title": "부산형 산후조리비 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000134",
+          "title": "산모·신생아 건강관리 지원사업",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "disability-서울",
+      "expectedIds": [
+        "gov24-VOU000000020",
+        "gov24-SD0000016119"
+      ],
+      "top": [
+        {
+          "id": "gov24-611000000120",
+          "title": "서울형 장애인 부가급여",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-322000000119",
+          "title": "장애인 보장구 휠체어 수리비 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-O00023400011",
+          "title": "서대문구 장애인, 임산부, 생후 1년 영아 양육자 대상 책배달 서비스",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000135",
+          "title": "남성장애인 출산비용 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-322000000120",
+          "title": "장애인가정 출산지원금 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "disability-경기",
+      "expectedIds": [
+        "gov24-VOU000000020",
+        "gov24-SD0000016119"
+      ],
+      "top": [
+        {
+          "id": "gov24-641000000146",
+          "title": "장애인가구 냉난방비 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000173",
+          "title": "도비 장애수당",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000125",
+          "title": "장애인활동지원급여지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-O00045400024",
+          "title": "경기도 장애인 입원비 감면",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000143",
+          "title": "장애인 대소변흡수용품 구입 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "disability-부산",
+      "expectedIds": [
+        "gov24-VOU000000020",
+        "gov24-SD0000016119"
+      ],
+      "top": [
+        {
+          "id": "gov24-329000000102",
+          "title": "장애인 거주시설 명절 위문비 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000130",
+          "title": "장애인재활수당 지급",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000106",
+          "title": "시설보호 장애인 입원간호비 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000656",
+          "title": "장애인 결혼상담서비스",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000652",
+          "title": "장애인활동지원 시비추가지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "culture-서울",
+      "expectedIds": [
+        "gov24-137100000236"
+      ],
+      "top": [
+        {
+          "id": "gov24-O00022900002",
+          "title": "체육시설 이용요금 감면(월계구민체육센터)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-O00023500002",
+          "title": "체육시설 이용요금 감면",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-O00024100001",
+          "title": "체육시설 (프로그램) 이용 요금 감면",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-O00024300002",
+          "title": "체육시설 이용요금 감면",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-O00022800008",
+          "title": "체육시설 이용요금 감면(금나래문화체육센터)",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "culture-경기",
+      "expectedIds": [
+        "gov24-137100000236"
+      ],
+      "top": [
+        {
+          "id": "gov24-641000000693",
+          "title": "임산부 친환경농산물 공급지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000154",
+          "title": "친환경 농산물 인증비용 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000169",
+          "title": "축산환경개선 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000168",
+          "title": "친환경 생태보전 재배 장려금 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000161",
+          "title": "친환경 축산물 인증비용 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "culture-부산",
+      "expectedIds": [
+        "gov24-137100000236"
+      ],
+      "top": [
+        {
+          "id": "gov24-626000000141",
+          "title": "친환경농업 육성 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-715000000218",
+          "title": "부산다문화교육지원센터 세계언어교실",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-626000000105",
+          "title": "축산농가 환경개선 지원서비스",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-135200005004",
+          "title": "긴급복지 연료비 및 전기요금 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-B55211100001",
+          "title": "과학문화바우처",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "startup-서울",
+      "expectedIds": [
+        "gov24-999000000074"
+      ],
+      "top": [
+        {
+          "id": "gov24-B55273500017",
+          "title": "창업에듀",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-611000000164",
+          "title": "소상공인 전용 노란우산 공제 가입 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000000134",
+          "title": "소상공인 고용보험 가입 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-611000019649",
+          "title": "1인 자영업자, 프리랜서 등 출산휴가급여(임산부, 배우자)",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-B19000100001",
+          "title": "상생협력센터(KOMBI) 창업공간 제공",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "startup-경기",
+      "expectedIds": [
+        "gov24-999000000074"
+      ],
+      "top": [
+        {
+          "id": "gov24-B55273500017",
+          "title": "창업에듀",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-641000000699",
+          "title": "소상공인 청년창업원스텝",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000700",
+          "title": "소상공인 통합교육",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000669",
+          "title": "경기청년 일자리 매치업 플러스",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-641000000157",
+          "title": "1인 소상공인 고용보험료 지원",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "startup-부산",
+      "expectedIds": [
+        "gov24-999000000074"
+      ],
+      "top": [
+        {
+          "id": "gov24-B55273500017",
+          "title": "창업에듀",
+          "group": "matched"
+        },
+        {
+          "id": "gov24-626000000151",
+          "title": "소상공인 법률서비스 지원",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-B19000100001",
+          "title": "상생협력센터(KOMBI) 창업공간 제공",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-142100000058",
+          "title": "창업중심대학",
+          "group": "unknown"
+        },
+        {
+          "id": "gov24-B55307700027",
+          "title": "소상공인 온·오프라인 교육",
+          "group": "unknown"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "limitation": "自체 작성한 목표 후보 집합의 노출률이다. 수급자격 정확도·독립 평가·실사용자 성과·AI 모델 정확도가 아니다."
+}

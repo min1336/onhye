@@ -1,0 +1,75 @@
+{
+  "checkedAt": "2026-10-28T11:44:58.894Z",
+  "deploymentId": "dpl_5VWzCXSJTpcqvMTkheiTjTBukTdU",
+  "url": "https://onhye.vercel.app",
+  "healthy": true,
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "ok": true,
+      "durationMs": 699,
+      "requestId": null,
+      "asset": "/assets/index-Se--wIJ0.js"
+    },
+    {
+      "path": "/api/status",
+      "status": 200,
+      "ok": true,
+      "durationMs": 446,
+      "requestId": "1f9c4349-03a7-491b-b865-e53a572a7cf6",
+      "count": 144124,
+      "aiAvailable": true
+    },
+    {
+      "path": "/api/catalog",
+      "status": 200,
+      "ok": true,
+      "durationMs": 685,
+      "requestId": "8a85abca-9f7b-4546-8651-317c0c85d127",
+      "count": 144124
+    },
+    {
+      "path": "/api/recommend",
+      "status": 200,
+      "ok": true,
+      "durationMs": 936,
+      "requestId": "1c3dec46-b376-4212-9079-5ee343ea1a10",
+      "count": 1508
+    },
+    {
+      "path": "/assets/index-Se--wIJ0.js",
+      "status": 200,
+      "ok": true,
+      "durationMs": 479,
+      "requestId": null
+    }
+  ],
+  "logAccess": [
+    {
+      "name": "4xx",
+      "ok": true,
+      "limitReached": false,
+      "count": 5
+    },
+    {
+      "name": "5xx",
+      "ok": true,
+      "limitReached": false,
+      "count": 0
+    },
+    {
+      "name": "application",
+      "ok": true,
+      "limitReached": false,
+      "count": 1
+    }
+  ],
+  "testsPassed": 80,
+  "browserClientErrorCaptured": true,
+  "catalogue400RootCauseConfirmed": true,
+  "catalogue400Fixed": true,
+  "scheduledMonitorLabel": "com.onhye.monitor",
+  "intervalSeconds": 300,
+  "scheduledExecutionVerified": true
+}
